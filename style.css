@@ -1,0 +1,139 @@
+body {
+    width: 96%;
+    padding-left: 2%;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h2 {
+    margin: 15px 0 0 0;
+    font-size: 25px;
+}
+
+.DividingLine1 {
+    color: #5b4f9e;
+    background-color: #5b4f9e;
+    height: 6px;
+}
+
+.DividingLine2 {
+    color: #daeb44;
+    background-color: #daeb44;
+    height: 6px;
+}
+
+table.DividingLine {
+    width: 100%;
+}
+
+table.DividingLine td.scale82 {
+    width: 80%;
+}
+
+table.DividingLine td.scale73 {
+    width: 70%;
+}
+
+table.DividingLine td.scale64 {
+    width: 60%;
+}
+
+.experience {
+    color: black;
+    font-size: 18px;
+    padding-left: 15px;
+}
+
+.experience h1 {
+    margin: 10px 0 0 0;
+    font-size: 18px;
+}
+
+.experience div div h1 {
+    margin: 10px 0 0 0;
+    font-size: 18px;
+}
+
+.experience h2 {
+    margin: 2px 0 0 15px;
+    font-size: 18px;
+    font-style: italic;
+}
+
+.experience div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.experience p {
+    padding-left: 30px;
+    margin: 8px 0 2px 0;
+}
+
+.experience ul {
+    padding-left: 60px;
+    margin: 0px;
+}
+
+.personalProjects {
+    color: black;
+    font-size: 18px;
+    padding-left: 15px;
+}
+
+.personalProjects p {
+    margin: 10px 0 0 0;
+}
+
+.bottom {
+    color: black;
+    font-size: 16px;
+    margin: 30px 0 0 0;
+}
+
+.bottom p {
+    margin: 5px 0 0 0;
+}
+
+.email {
+    color: black;
+    font-size: 15px;
+    font-style: italic;
+}
+
+.space-between_alignment {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#picture {
+    width: 300px;
+}
+
+td.right {
+    text-align: right;
+}
+
+#school-of-cs-Logo {
+    text-align: left;
+    height: 150px;
+}
+
+#pictureOfMe {
+    width: 95%;
+}
+
+#part1 {
+    width: 100%;
+}
+
+.centerContainer {
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+    max-width: 1000px;
+}
